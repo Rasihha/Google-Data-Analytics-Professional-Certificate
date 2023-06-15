@@ -9,5 +9,5 @@ This respository contains my key takeaways from the Google Data Analytics Profes
 4. [Process Data from Dirty to Clean](https://github.com/Rasihha/Google-Data-Analytics-Professional-Certificate/blob/a243b59752df4467f1083e380a1f0d1798d5f4ed/4.%20Process%20Data%20from%20Dirty%20to%20Clean)
 5. [Analyze Data to Answer Questions](https://github.com/Rasihha/Google-Data-Analytics-Professional-Certificate/blob/7a9c5983ddc773fe6885d15974cbcdf5a422d094/5.%20Analyze%20Data%20to%20Answer%20Questions)
 6. [Share Data Through the Art of Visualization](https://github.com/Rasihha/Google-Data-Analytics-Professional-Certificate/blob/4393d1c763323cfcb652e14747b455fca96f0ffb/6.%20Share%20Data%20Through%20the%20Art%20of%20Visualization)
-7. [Data Analysis with R Programming]
+7. [Data Analysis with R Programming](https://github.com/Rasihha/Google-Data-Analytics-Professional-Certificate/blob/eb7e3a3508a38590e5d952fcdc53e557663ad7a7/7.%20Data%20Analysis%20with%20R%20Programming)
 8. [Google Data Analytics Capstone: Complete a Case Study]
