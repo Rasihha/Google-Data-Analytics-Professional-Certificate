@@ -5,8 +5,8 @@ This respository contains my key takeaways from the Google Data Analytics Profes
 
 1. [Foundations: Data, Data, Everywhere](#foundations-data-data-everywhere)
 2. [Ask Questions to Make Data-Driven Decisions](#ask-questions-to-make-data-driven-decisions)
-3. [Prepare Data for Exploration](Prepare Data for Exploration)
-4. Process Data from Dirty to Clean
+3. [Prepare Data for Exploration](#prepare-data-for-exploration)
+4. [Process Data from Dirty to Clean](#Process-Data-from-Dirty-to-Clean)
 5. Analyze Data to Answer Questions
 6. Share Data Through the Art of Visualization
 7. Data Analysis with R Programming
@@ -27,4 +27,6 @@ c
 c
 c
 c
+## Process Data from Dirty to Clean
+## 
 
