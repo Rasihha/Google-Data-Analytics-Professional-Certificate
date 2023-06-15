@@ -4,7 +4,7 @@
 This respository contains my key takeaways from the Google Data Analytics Professional Certificate program. It covers the following eight courses including an opportunity to create a case study:
 
 1. [Foundations: Data, Data, Everywhere](https://github.com/Rasihha/Google-Data-Analytics-Professional-Certificate/blob/1b23ee2a056586c9ad006e7d646b46889ffcec66/1.%20Foundations%3A%20Data%2C%20Data%2C%20Everywhere)
-2. [Ask Questions to Make Data-Driven Decisions]
+2. [Ask Questions to Make Data-Driven Decisions](https://github.com/Rasihha/Google-Data-Analytics-Professional-Certificate/blob/a837dd8f7ff38e3e787cdba6b131ce2896747a8d/2.%20Ask%20Questions%20to%20Make%20Data-Driven%20Decisions)
 3. [Prepare Data for Exploration]
 4. [Process Data from Dirty to Clean]
 5. [Analyze Data to Answer Questions]
