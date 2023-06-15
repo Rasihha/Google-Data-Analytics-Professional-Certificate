@@ -1,7 +1,7 @@
 # Google Data Analytics Professional Certificate
 
 ## About
-This respository contains my key takeaways from the Google Data Analytics Professinal Certificate programme. It covers the following eight courses including an opportunity to create a case study:
+This respository contains my key takeaways from the Google Data Analytics Professional Certificate course. It covers the following eight courses including an opportunity to create a case study:
 
 1. Foundations: Data, Data, Everywhere
 2. Ask Questions to Make Data-Driven Decisions
