@@ -3,7 +3,7 @@
 ## About
 This respository contains my key takeaways from the Google Data Analytics Professional Certificate program. It covers the following eight courses including an opportunity to create a case study:
 
-1. Foundations: Data, Data, Everywhere
+1. Foundations: Data, Data, Everywhere 
 2. Ask Questions to Make Data-Driven Decisions
 3. Prepare Data for Exploration
 4. Process Data from Dirty to Clean
