@@ -109,7 +109,7 @@ _Summary_:
 5. Archive
 6. Destroy
 
-![The Data Analysis Process](https://d3c33hcgiwev3.cloudfront.net/XT8DBaLYTUC_AwWi2O1Asw_bed8d5f8f56e4f1c9ed1dbdc5917e4f1_DAC1-The-data-analysis-process.pdf?Expires=1687478400&Signature=GoHD3vq6vWSiB4vCwIrzWU6eXCSCAEsoqoF5MgjOxtAq5-h0oZfJv1HJhI4Cz5GspgIvZ7OHcyIkqp4TYOZfbiEc8NwhBn64JDEPxNFM1AxJ1nsoPyFVaFPmbj0zoZJnKo79zn6RWpXcKfjPGucgWU0bqq0R5SgYU3ZgWC6T3L8_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+![The Data Analysis Process](https://github.com/Rasihha/Google-Data-Analytics-Professional-Certificate/blob/27d3286f793cb410cc6010b56ee9aad244573b27/Data%20analysis%20process.pdf)
 
 ## Ask Questions to Make Data-Driven Decisions
 c
