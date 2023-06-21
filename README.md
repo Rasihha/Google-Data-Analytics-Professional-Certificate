@@ -17,12 +17,12 @@ This respository contains my key takeaways from the Google Data Analytics Profes
 Data analysis is the collection, transformation, and organisation of data in order to draw conclusions, make predictions, and drive informed decision-making.
 
 The six steps of data analysis are:
-* Ask: Business Challenge/Objective/Question
-* Prepare: Data generation, collection, storage, and data management
-* Process: Data cleaning/data integrity
-* Analyse: Data exploration, visualization, and analysis
-* Share: Communicating and interpreting results 
-* Act: Putting your insights to work to solve the problem
+1. Ask - Business Challenge/Objective/Question
+2. Prepare - Data generation, collection, storage, and data management
+3. Process - Data cleaning/data integrity
+4. Analyse - Data exploration, visualization, and analysis
+5. Share - Communicating and interpreting results
+6. Act - Putting your insights to work to solve the problem
 
 ### **Case Study: People Analytics**
 
@@ -108,6 +108,8 @@ _Summary_:
 4. Analyse
 5. Archive
 6. Destroy
+
+![The Data Analysis Process](https://d3c33hcgiwev3.cloudfront.net/XT8DBaLYTUC_AwWi2O1Asw_bed8d5f8f56e4f1c9ed1dbdc5917e4f1_DAC1-The-data-analysis-process.pdf?Expires=1687478400&Signature=GoHD3vq6vWSiB4vCwIrzWU6eXCSCAEsoqoF5MgjOxtAq5-h0oZfJv1HJhI4Cz5GspgIvZ7OHcyIkqp4TYOZfbiEc8NwhBn64JDEPxNFM1AxJ1nsoPyFVaFPmbj0zoZJnKo79zn6RWpXcKfjPGucgWU0bqq0R5SgYU3ZgWC6T3L8_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
 
 ## Ask Questions to Make Data-Driven Decisions
 c
