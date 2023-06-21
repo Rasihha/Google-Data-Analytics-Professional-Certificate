@@ -109,7 +109,7 @@ _Summary_:
 5. Archive
 6. Destroy
 
-[Data analysis process.pdf](https://github.com/Rasihha/Google-Data-Analytics-Professional-Certificate/files/11821374/Data.analysis.process.pdf)
+![Image 21-06-2023 at 18 05](https://github.com/Rasihha/Google-Data-Analytics-Professional-Certificate/assets/136366423/529e177d-8cb7-4027-ae65-d9b4dcc2e5e7)
 
 
 ## Ask Questions to Make Data-Driven Decisions
