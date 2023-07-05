@@ -1,8 +1,8 @@
 # Google Data Analytics Professional Certificate
 
-##This course is split into 8 modules:
+## This course is split into 8 modules:
 
- 1. oundations: Data, Data, Everywhere
+ 1. Foundations: Data, Data, Everywhere
  2. Ask Questions to Make Data-Driven Decisions
  3. Prepare Data for Exploration
  4. Process Data from Dirty to Clean
@@ -13,4 +13,4 @@
 
 I have attached the main projects i have completed from this course:
 
-Creating a Personal Spending Budget Using Google Sheets
+[Creating a Personal Spending Budget Using Google Sheets](#creating-a-personal-spending-budget-using-google-sheets)
